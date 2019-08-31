@@ -2,7 +2,8 @@
 
 __El proyecto Recruiter2050 es un gestor de CVs de candidatos que ayuda a decidir si el CV es adecuado para la posición a la que aspira el candidato. La gracia del sistema es que las evaluación en sí está basada en cómo carga su CV el candidato. A qué da más prioridad, qué avatar elige, etcétera.__  
 
-:![logo_peque1mas](https://user-images.githubusercontent.com/10841467/64068420-4920b700-cc0e-11e9-8d33-89286a22067d.jpg):
+## screenshot
+![logo_peque1mas](https://user-images.githubusercontent.com/10841467/64068420-4920b700-cc0e-11e9-8d33-89286a22067d.jpg)
 
 #### Me parece intereante la clase "Calculadora" en:
 ```
