@@ -13,3 +13,8 @@ No es el proyecto completo. Notarán que falta la Interfaz del candidato. Tambi�
 ### Les dejo el video de cómo funciona, para los que no quieren montar el código:
 
 [Video Recruiter2050 ir](https://www.youtube.com/watch?v=3UtlL2nr9f4&t=17s)
+
+## Autor: ✒️
+* [Alejandro G. Vera](https://linkedin.com/in/alejandro-gonzalo-vera/)
+<br/></br>
+# Enjoy!
