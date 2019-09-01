@@ -5,7 +5,7 @@ __El proyecto Recruiter2050 es un gestor de CVs de candidatos que ayuda a decidi
 ## screenshot
 ![logo_peque1mas](https://user-images.githubusercontent.com/10841467/64068420-4920b700-cc0e-11e9-8d33-89286a22067d.jpg)
 
-#### Me parece intereante la clase "Calculadora" en:
+#### Me parece interesante la clase "Calculadora" en:
 ```
 ProyectoRecruiter2050/src/calculo/Calculadora.java
 ```
