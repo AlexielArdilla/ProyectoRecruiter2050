@@ -73,8 +73,9 @@ public class ControladorCambioPassword extends HttpServlet {
 
 				String nuevoPass = request.getParameter("NuevoPass");
 				String passMD5 = new UsuarioDAOImpl().stringAMD5(nuevoPass);
-
-				int r = new UsuarioDAOImpl().cambiarPassword(miUser, passMD5);
+				int r = -1;
+				//comentado para que no me cambien los passwords!!!
+				//int r = new UsuarioDAOImpl().cambiarPassword(miUser, passMD5);
 
 				if (r > 0) {
 
